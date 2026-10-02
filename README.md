@@ -213,20 +213,6 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 🤝 Let's Connect
-
-<!-- 👉 Replace YOUR_LINKEDIN, YOUR_TWITTER, YOUR_EMAIL, YOUR_PORTFOLIO_URL with your real details -->
-
-<div align="center">
-
-<a href="https://github.com/Nirmal-works01"><img src="https://img.shields.io/badge/GitHub-Nirmal--works01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=9D4EDD&center=true&vCenter=true&width=600&height=40&lines=%E2%AD%90+Star+my+repos+if+they+help+you!;%F0%9F%A4%9D+Open+for+collaborations!;%F0%9F%92%A1+Code.+Create.+Conquer." alt="Footer typing animation" />
 
 <br/>
