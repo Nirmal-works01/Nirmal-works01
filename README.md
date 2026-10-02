@@ -1,23 +1,21 @@
 # Nirmal Works01
 
-<!-- ══════════════════ ⚡ ANIMATED HEADER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,50:00D9FF,100:9D4EDD&height=230&section=header&text=NIRMAL&fontSize=75&fontColor=ffffff&fontAlignY=32&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%E2%9A%A1&descSize=19&descAlignY=55&animation=twinkling" width="100%" alt="header"/>
-
-<!-- ══════════════════ 👋 GREETING BANNER ══════════════════ -->
+<!-- ══════════════════ ⚡ HACKER ANIMATED HEADER ══════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D9FF,100:9D4EDD&height=70&section=header&reversal=1&text=Hi%20there!%20Thanks%20for%20stopping%20by%20%E2%99%80&fontSize=22&fontColor=ffffff&fontAlignY=36&fontAlignX=50&animation=fadeIn" width="100%" alt="waving"/>
-</div>
-
-<!-- ══════════════════ 👋 WELCOME MESSAGE ══════════════════ -->
-<div align="center">
-<p style="font-size: 18px; color: #ffffff; margin-top: 10px;">Full Stack Developer • MERN & Next.js Specialist • Turning coffee into clean code</p>
+<img src="https://capsule-render.vercel.app/api?type=slide&color=6C63FF,00D9FF,9D4EDD&height=200&section=header&reversal=0&fontSize=50&fontColor=ffffff&alignY=32&text=NIRMAL%20%7C%20Full%20Stack%20Developer" width="100%" alt="header"/>
 </div>
 
 <!-- ══════════════════ 🌈 LIVE BADGES ══════════════════ -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Nirmal-works01&label=%F0%9F%91%80+PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="views"/>
+<br/>
 <img src="https://img.shields.io/github/followers/Nirmal-works01?label=%F0%9F%A4%9D+FOLLOWERS&color=00D9FF&style=for-the-badge&logo=github" alt="followers"/>
 <img src="https://img.shields.io/github/stars/Nirmal-works01?affiliations=OWNER&label=%E2%AD%90+STARS&color=FFB800&style=for-the-badge&logo=github" alt="stars"/>
+</div>
+
+<!-- Coding Animation -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&color=00D9FF&center=true&vCenter=true&width=560&lines=%E2%AD%90+Writing+code+%F0%9F%92%85;%F0%9F%93%8D+Fixing+bugs;%E2%AD%90+Building+projects;%F0%9F%94%96+Learning+daily" alt="typing"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
@@ -136,32 +134,27 @@
 <!-- ══════════════════ 🐍 CONTRIBUTION SNAKE ══════════════════ -->
 <h2 align="center">🐍 Contribution Activity</h2>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nirmal-works01&label=%F0%9F%91%80+PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="views"/>
+</p>
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nirmal-works01/Nirmal-works01/output/github-contribution-grid-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nirmal-works01/Nirmal-works01/output/github-contribution-grid-snake.svg"/>
 <img alt="snake" src="https://raw.githubusercontent.com/Nirmal-works01/Nirmal-works01/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ══════════════════ 🤝 CONNECT ══════════════════ -->
-<h2 align="center">🤝 Connect With Me</h2>
-
 <div align="center">
-<a href="https://www.linkedin.com/in/nirmal-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:nirmal@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://nirmalportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://twitter.com/nirmal_works"><img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<!-- Contribution stats -->
+<a href="https://github.com/Nirmal-works01">
+  <img src="https://img.shields.io/github/contributors/Nirmal-works01?label=%F0%9F%8C%9F+Contributors&color=FF6D00&style=for-the-badge&logo=github" alt="contributors"/>
+</a>
+<a href="https://github.com/Nirmal-works01">
+  <img src="https://img.shields.io/github/commit-activity/m/Nirmal-works01?label=%F0%9F%93%8D+Activity&color=9D4EDD&style=for-the-badge&logo=github" alt="activity"/>
+</a>
 </div>
 
-<br/>
-
-<div align="center">
-<a href="https://github.com/Nirmal-works01?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%80%20View%20My%20Repos-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
-<a href="https://github.com/Nirmal-works01?tab=followers"><img src="https://img.shields.io/badge/%F0%9F%91%8D%20Follow%20Me-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="follow"/></a>
-</p>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ══════════════════ 🚀 FOOTER ══════════════════ -->
 <div align="center">
